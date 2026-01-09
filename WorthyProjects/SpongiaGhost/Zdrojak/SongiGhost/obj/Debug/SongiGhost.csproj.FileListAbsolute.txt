@@ -1,0 +1,10 @@
+c:\users\marek\documents\visual studio 2012\Projects\SongiGhost\SongiGhost\bin\Debug\SongiGhost.exe.config
+c:\users\marek\documents\visual studio 2012\Projects\SongiGhost\SongiGhost\bin\Debug\SongiGhost.exe
+c:\users\marek\documents\visual studio 2012\Projects\SongiGhost\SongiGhost\bin\Debug\SongiGhost.pdb
+c:\users\marek\documents\visual studio 2012\Projects\SongiGhost\SongiGhost\obj\Debug\SongiGhost.Form1.resources
+c:\users\marek\documents\visual studio 2012\Projects\SongiGhost\SongiGhost\obj\Debug\SongiGhost.Properties.Resources.resources
+c:\users\marek\documents\visual studio 2012\Projects\SongiGhost\SongiGhost\obj\Debug\SongiGhost.csproj.GenerateResource.Cache
+c:\users\marek\documents\visual studio 2012\Projects\SongiGhost\SongiGhost\obj\Debug\SongiGhost.exe
+c:\users\marek\documents\visual studio 2012\Projects\SongiGhost\SongiGhost\obj\Debug\SongiGhost.pdb
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\obj\Debug\SongiGhost.Form2.resources
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\obj\Debug\SongiGhost.csprojResolveAssemblyReference.cache

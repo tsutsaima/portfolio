@@ -1,0 +1,20 @@
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\bin\Release\SongiGhost.exe.config
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\bin\Release\SongiGhost.exe
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\bin\Release\SongiGhost.pdb
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\obj\Release\SongiGhost.Form1.resources
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\obj\Release\SongiGhost.Form2.resources
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\obj\Release\SongiGhost.Properties.Resources.resources
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\obj\Release\SongiGhost.csproj.GenerateResource.Cache
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\obj\Release\SongiGhost.exe
+C:\Users\Marek\Documents\Visual Studio 2012\Projects\SongiGhost\SongiGhost\obj\Release\SongiGhost.pdb
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\bin\Release\SongiGhost.exe.config
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\bin\Release\SongiGhost.exe
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\bin\Release\SongiGhost.pdb
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\obj\Release\SongiGhost.csproj.AssemblyReference.cache
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\obj\Release\SongiGhost.Form1.resources
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\obj\Release\SongiGhost.Form2.resources
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\obj\Release\SongiGhost.Properties.Resources.resources
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\obj\Release\SongiGhost.csproj.GenerateResource.cache
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\obj\Release\SongiGhost.csproj.CoreCompileInputs.cache
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\obj\Release\SongiGhost.exe
+C:\Users\mswin\Downloads\OneDrive_1_6-7-2023\kluc\SpongiaGhost\Zdrojak\SongiGhost\obj\Release\SongiGhost.pdb
