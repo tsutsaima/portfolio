@@ -1,0 +1,1 @@
+Projects that I'm proud of and wanted to showcase. There are mainly old projects, because now I don't have much time to make my own projects due to work and school and me wanting to still have a social life. And since work (in Swan a.s.) is providing me with experience, I prefer working on work projects and also earning money, and sadly I cannot showcase them.
