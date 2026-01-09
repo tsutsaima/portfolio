@@ -1,7 +1,0 @@
-C:\Users\mswin\Downloads\vyska\projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
-C:\Users\mswin\Downloads\vyska\projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
-C:\Users\mswin\Downloads\vyska\projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
-C:\Users\mswin\Downloads\vyska\projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.AssemblyReference.cache
-C:\Users\mswin\Downloads\vyska\projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
-C:\Users\mswin\Downloads\vyska\projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
-C:\Users\mswin\Downloads\vyska\projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
